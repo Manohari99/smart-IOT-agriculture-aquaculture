@@ -1,0 +1,6 @@
+{
+  "device_id": "pond_node_01",
+  "soil_moisture": 30,
+  "temperature": 32,
+  "alert": "Irrigation Required"
+}
